@@ -1,0 +1,9 @@
+python-dotenv~=0.21.0
+httpx~=0.23.1
+python-crontab=2.7.1
+Pyrogram 2.0.70 
+asyncio 3.4.3 
+tgcrypto 1.2.5 
+tenacity 3.2.0
+pyqrcode 1.2.1
+pypng 0.20220715.0
